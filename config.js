@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Pinterest',
-			icon: 'ysparkles',
+			icon: 'sparkles',
 			link: 'https://mx.pinterest.com/',
 		},
 	],
