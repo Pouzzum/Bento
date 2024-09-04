@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Damian',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -59,33 +59,33 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
+			name: 'GMail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/mail/u/1/#inbox',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Whatsapp web',
+			icon: 'message-circle-heart',
+			link: 'https://web.whatsapp.com/',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Youtube',
+			icon: 'youtube',
+			link: 'https://www.youtube.com/',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Duolingo',
+			icon: 'languages',
+			link: 'https://www.duolingo.com/learn',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Pinterest',
+			icon: 'ysparkles',
+			link: 'https://mx.pinterest.com/',
 		},
 	],
 
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'UVM',
+					link: 'https://uvmonline.blackboard.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Teams',
+					link: 'https://teams.microsoft.com/v2/?culture=es-mx&country=mx&clientexperience=t2',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Korean',
+					link: 'https://www.howtostudykorean.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'FlowSavvy',
+					link: 'https://flowsavvy.app/',
 				},
 			],
 		},
