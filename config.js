@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://www.howtostudykorean.com/',
 				},
 				{
-					name: 'FlowSavvy',
-					link: 'https://flowsavvy.app/',
+					name: 'G Drive',
+					link: 'https://drive.google.com/drive/my-drive?hl=es',
 				},
 			],
 		},
