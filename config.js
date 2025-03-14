@@ -59,7 +59,7 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'GMail',
+			name: 'Gmail',
 			icon: 'mail',
 			link: 'https://mail.google.com/mail/u/1/#inbox',
 		},
@@ -143,16 +143,16 @@ const CONFIG = {
 					link: 'https://open.spotify.com/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Tweek',
+					link: 'https://tweek.so/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Google Calendar',
+					link: 'https://calendar.google.com/calendar/u/0/r/week',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Library',
+					link: 'https://www.imissmylibrary.com/',
 				},
 			],
 		},
