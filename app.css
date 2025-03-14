@@ -21,9 +21,9 @@
   --sfg: #494949; /* Sceondary Foreground color */
 
   /* Light Colors  */
-  --accent: #a9d09f; /* Hover color */
-  --background: #fff8dc; /* Background color */
-  --cards: #c7c1a8; /* Cards color */
+  --accent: #61b0f1; /* Hover color */
+  --background: #f5f5f5; /* Background color */
+  --cards: #e4e6e6; /* Cards color */
 
   /* Image background  */
   --imgbg: url(assets/background.jpg); /* Image URL */
